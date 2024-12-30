@@ -55,6 +55,7 @@ The dataset includes:
 - Visualization: Matplotlib, WordCloud
 
 ## Data Management: Jupyter Notebook
+https://github.com/ty-russ/customer-feedback-analysis/blob/main/customer-feedback-analysis.ipynb
 
 ## Key Features
 
@@ -98,7 +99,7 @@ The dataset includes:
 
 Clone the Repository:
 
-git clone https://github.com/yourusername/hotel-reviews-analysis.git
+git clone https://github.com/ty-russ/customer-feedback-analysis.git
 
 Install Dependencies:
 
@@ -130,5 +131,5 @@ Name: Tirus Wagacha
 
 Email: kimtirus@gmail.com
 
-GitHub: ty-russ
+GitHub: https://github.com/ty-russ
 
