@@ -44,7 +44,8 @@ The dataset includes:
 
 - Feature Extraction: TF-IDF and Count Vectorization.
 
-- Sentiment Classification: Topic modeling using NLP techniques.
+- Sentiment Classification:
+  ![Sentiments](images/reviewsbysent_bar.jpeg)
 
 ## Tools and Technologies
 
