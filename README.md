@@ -62,6 +62,9 @@ https://github.com/ty-russ/customer-feedback-analysis/blob/main/customer-feedbac
 - Data Analysis
 
 - Sentiment Analysis: Classification into Positive, Neutral, or Negative.
+  ![Positives](images/positves.jpeg)
+  ![Neutral](images/neutral.jpeg)
+  ![Negatives](images/negatives.jpeg)
 
 - Topic Modeling: Using LDA and NMF to identify themes in reviews.
   ![Topic Recommendations](images/recommendations.jpeg)
@@ -75,6 +78,7 @@ https://github.com/ty-russ/customer-feedback-analysis/blob/main/customer-feedbac
 ## Visualizations
 
 - Word Clouds: For positive, neutral, and negative reviews.
+  
   ![Word Clouds](images/wordclouds.jpeg)
 
 - Bar Charts: Average ratings by country and sentiment distribution by categories.
