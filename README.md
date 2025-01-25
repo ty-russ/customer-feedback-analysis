@@ -62,7 +62,9 @@ https://github.com/ty-russ/customer-feedback-analysis/blob/main/customer-feedbac
 ## Key Features
 
 - Data Analysis
-
+  
+  ![Sentiment Rating](images/sentimentrating.jpeg)
+  
 - Sentiment Analysis: Classification into Positive, Neutral, or Negative.
   ![Positives](images/positive_sentiments.jpeg)
   ![Neutral](images/neutral.jpeg)
