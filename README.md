@@ -64,6 +64,7 @@ https://github.com/ty-russ/customer-feedback-analysis/blob/main/customer-feedbac
 - Sentiment Analysis: Classification into Positive, Neutral, or Negative.
 
 - Topic Modeling: Using LDA and NMF to identify themes in reviews.
+  ![Topic Recommendations](images/recommendations.jpeg)
 
 - Correlation Studies:
 
@@ -74,16 +75,17 @@ https://github.com/ty-russ/customer-feedback-analysis/blob/main/customer-feedbac
 ## Visualizations
 
 - Word Clouds: For positive, neutral, and negative reviews.
+  ![Word Clouds](images/wordclouds.jpeg)
 
 - Bar Charts: Average ratings by country and sentiment distribution by categories.
-
-- Scatter Plots: Relationship between review length and sentiment.
+  ![ratings Chart](images/ratings_bar.jpeg)
 
 ## Insights and Recommendations
 
 ### Positive Highlights:
 
 - Guests frequently praise staff friendliness, cleanliness, and ambiance.
+  ![Positive feedback](images/positives.jpeg)
 
 ### Areas for Improvement:
 
