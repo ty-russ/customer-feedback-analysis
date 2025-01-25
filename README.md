@@ -62,7 +62,7 @@ https://github.com/ty-russ/customer-feedback-analysis/blob/main/customer-feedbac
 - Data Analysis
 
 - Sentiment Analysis: Classification into Positive, Neutral, or Negative.
-  ![Positives](images/positve_sentiments.jpeg)
+  ![Positives](images/positive_sentiments.jpeg)
   ![Neutral](images/neutral.jpeg)
   ![Negatives](images/negatives.jpeg)
 
